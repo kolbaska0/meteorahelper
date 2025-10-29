@@ -1,0 +1,11 @@
+solana>=0.34.3
+solders>=0.21.0
+requests>=2.32.3
+
+wmi
+psutil
+
+customtkinter
+CTkMessagebox
+
+pyinstaller

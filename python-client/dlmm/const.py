@@ -1,0 +1,2 @@
+VERSION = "0.3.8"
+LOG_NAME = f"LiquiDMon_{VERSION}"
